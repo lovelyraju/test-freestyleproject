@@ -33,8 +33,7 @@ At the "Branches to build" option, the default branch name is set to "master." M
  
 
 Note: I have the Netflix-Signup repository in my GitHub. You can fork it to your own GitHub.
-https://github.com/charan-kilana/Netflix-SignUp-Page.git
-
+https://github.com/lovelyraju/test-freestyleproject.git
 
 
 Step-4: Installing Java 1.8 (OpenJDK) and Maven on the Jenkins Server.
